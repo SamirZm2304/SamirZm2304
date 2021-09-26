@@ -4,6 +4,8 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=SamirZm2304.SamirZm2304)
 
+
+![Github Stats SamirZm2304](https://github-readme-stats.vercel.app/api?username=SamirZm2304&count_private=true,issues&show_icons=true&show_owner=true&theme=tokyonight)
 <!--
 **SamirZm2304/SamirZm2304** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,5 +1,5 @@
 ### Hi there 👋
-*Computer Science Student at [Escuela Politécnica Nacional](https://www.epn.edu.ec/)*
+*Computer Science Engineer at [Escuela Politécnica Nacional](https://www.epn.edu.ec/)*
 
 
 ![](https://visitor-badge.glitch.me/badge?page_id=SamirZm2304.SamirZm2304)
